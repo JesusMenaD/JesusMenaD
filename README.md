@@ -7,7 +7,7 @@
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/mcmenamc](https://github.com/mcmenamc)
 
-- 💬 Preguntame sobre **Vue, JavaScript y NodeJS**
+- 💬 Preguntame sobre **ReactJS, Vue, JavaScript y NodeJS**
 
 - 📫 Como llegar a mi **mcmena636@gmail.com**
 
